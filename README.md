@@ -17,6 +17,7 @@ To investigate the correlation between wealth inequality (as in Gini coefficient
 - Urban poppulation (% of total population)
 ### Health
 - Life expectancy at birth (years)
+- Physicians (per 1000 people)
 ### Infrastructure
 - Fixed telephone subscriptions (per 100 people)
 - Individuals using the internet (% of population)
